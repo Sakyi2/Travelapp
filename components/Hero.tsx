@@ -53,7 +53,7 @@ const Hero = () => {
       </div>
 
       <div className="flex  flex-col w-full gap-3 sm:flex-row">
-        <Button type="button" title="Download App" variant="btn_blue"/>
+        <Button type="button" icon = "/play1.svg" title="Download App" variant="btn_blue"/>
         <Button type="button" 
         title="How we work?" 
         icon="/play1.svg" 
